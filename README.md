@@ -1,1 +1,1 @@
-Minha primeira acção no GIT - siteminha básico.
+Seja muito bem-vindo ao meu repositório no GITHUB!
